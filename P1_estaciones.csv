@@ -1,0 +1,9 @@
+﻿estacion_id,nombre,lat_ref,lon_ref,zona,activa
+E01,Estación Norte,19.48,-99.12,Norte,True
+E02,Estación Centro,19.4325,-99.1332,Centro,True
+E03,Estación Oriente,19.41,-99.07,Oriente,True
+E04,Estación Sur,19.35,-99.15,Sur,True
+E05,Estación Poniente,19.42,-99.21,Poniente,True
+E06,Estación Universidad,19.332,-99.187,Sur,True
+E07,Estación Mercado,19.445,-99.105,Centro,True
+E08,Estación Terminal,19.5,-99.16,Norte,True
